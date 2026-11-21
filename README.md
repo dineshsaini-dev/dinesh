@@ -1,20 +1,20 @@
 # Hi, I'm Dinesh Saini 👋
 
-### Senior Backend & Full-Stack Engineer | AI Product Engineering | FDE-focused
+### Senior Backend & Full-Stack Engineer | AI Product Engineering | FDE-Focused
 
-**8+ Years of Software Engineering Experience | Backend Architecture | Distributed Systems | AI-Powered Applications**
+**8+ Years in Software Engineering | Backend Architecture | Distributed Systems | AI-Powered Applications**
 
 I turn complex business workflows into practical, scalable software solutions.
 
-I'm a product-minded software engineer with 8+ years of experience building backend systems, enterprise integrations, full-stack applications, and technology-driven products.
+I'm a product-minded engineer with 8+ years of experience building backend systems, enterprise integrations, full-stack applications, and technology-driven products.
 
-I work at the intersection of **Product, Engineering, and AI** — understanding business problems, translating requirements into technical solutions, and building applications that integrate with real-world business workflows.
+I work at the intersection of **Product, Engineering, and AI**—understanding business problems, translating requirements into technical solutions, and building software that fits real-world workflows.
 
-My core engineering expertise includes Node.js, NestJS, TypeScript, React, Next.js, PostgreSQL, Redis, RabbitMQ, microservices, and distributed systems.
+My core engineering expertise includes Node.js, NestJS, TypeScript, React, Next.js, PostgreSQL, Redis, RabbitMQ, Apache Kafka, AWS, microservices, and distributed systems.
 
-Currently, I'm focused on AI product engineering and Forward Deployed Engineering, with an emphasis on LLM-powered applications, RAG systems, AI agents, intelligent automation, and real-world business integrations.
+I'm currently focused on **AI product engineering and Forward Deployed Engineering**, exploring LLM-powered applications, RAG, AI agents, intelligent automation, and business integrations.
 
-**My approach: Understand → Design → Build → Integrate → Deploy → Optimize.**
+**My approach:** Understand → Design → Build → Integrate → Deploy → Optimize
 
 📍 India | Open to Remote Opportunities Worldwide
 
